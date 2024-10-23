@@ -2,4 +2,4 @@
 
 | Job | Link | 
 |:-:|:------:|
-|Delta|[Earnings Analysis]()|
+|Delta|[Earnings Analysis](Presidential Election Simulation.pdf)|
